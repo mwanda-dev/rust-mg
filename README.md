@@ -1,3 +1,8 @@
+Going to rewrite this repo using Rust. By hand. Just as it is.
+
+Tasks:
+- [ ] Study each header file and source file in the repo to understand how it works 
+
 mg
 ==
 This is a portable version of the Mg editor from OpenBSD.
